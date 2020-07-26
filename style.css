@@ -1,0 +1,37 @@
+body{
+
+    text-align: center;
+    margin-top: 130px;
+}
+.btn{
+
+    background-color: brown;
+}
+button{
+
+    margin:06px;
+    height: 27px;
+    color:black;
+    font-weight: bold;
+    background-color: darkcyan;
+
+}
+input{
+    height: 24px;
+    font-size: large;
+    color:purple;
+    border: solid 1px darkblue;
+    padding-left: 10px;
+    margin-top:15px;
+}
+
+h1{
+    margin-top:90px;
+    color:brown;
+}
+.area{
+    height:390px;
+    width:460px;
+    border: 2px solid green ;
+    
+}
